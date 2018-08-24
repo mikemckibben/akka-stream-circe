@@ -22,6 +22,7 @@ This library provides two different stype of JSON stream parser `Flows`:
 Supported flow input value types:
 - akka.util.ByteString
 - java.nio.ByteBuffer
+- Array[Byte]
 - String
 
 
