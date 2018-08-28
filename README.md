@@ -1,4 +1,4 @@
-# akka-stream-circe
+# circe-akka
 
 Akka stream support for streaming JSON parsing and decoding with [io.circe](https://circe.github.io/circe/).
 
